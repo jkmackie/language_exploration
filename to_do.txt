@@ -1,0 +1,5 @@
+TO DO:
+
+* Review mechanics of functions and add visuals
+* Review bottlenecks
+* Can mps be used with delberta model?  Probably not, Delberta page says cuda is required.

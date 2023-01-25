@@ -1,2 +1,3 @@
 #ignore all files in this folder
 cache_model_weights/
+.DS_Store
